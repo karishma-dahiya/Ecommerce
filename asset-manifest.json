@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/karishma-dahiya/Ecommerce/static/css/main.9b68c6c3.css",
+    "main.js": "/karishma-dahiya/Ecommerce/static/js/main.7561fd46.js",
+    "static/media/blackerry.png": "/karishma-dahiya/Ecommerce/static/media/blackerry.0e38977684b17f7528f1.png",
+    "static/media/yogurt.png": "/karishma-dahiya/Ecommerce/static/media/yogurt.c8795262f08946c4fe9a.png",
+    "static/media/strawberry.png": "/karishma-dahiya/Ecommerce/static/media/strawberry.63a789258d4cbed3f5d8.png",
+    "index.html": "/karishma-dahiya/Ecommerce/index.html",
+    "main.9b68c6c3.css.map": "/karishma-dahiya/Ecommerce/static/css/main.9b68c6c3.css.map",
+    "main.7561fd46.js.map": "/karishma-dahiya/Ecommerce/static/js/main.7561fd46.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9b68c6c3.css",
+    "static/js/main.7561fd46.js"
+  ]
+}
